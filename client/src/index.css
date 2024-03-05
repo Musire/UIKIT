@@ -41,6 +41,11 @@ html {
     background: var(--silver);
     transition-duration: 2s;
   }
+
+  ::-webkit-scrollbar-button {
+    display: none;
+  }
+  
 }
 
 @layer components {

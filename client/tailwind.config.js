@@ -4,6 +4,9 @@ export default {
     "./index.html",
     "./src/**/*.{js,jsx}",
   ],
+  plugins: [
+    require('tailwind-scrollbar'),
+  ],
   theme: {
     extend: {
       screens: {
