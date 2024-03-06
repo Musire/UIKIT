@@ -1,114 +1,114 @@
 const jackets = [
     {
-        path: "details/North Face",
+        path: "jackets/North Face",
         label: "North Face"
     },
     {
-        path: "details/Columbia",
+        path: "jackets/Columbia",
         label: "Columbia"
     },
     {
-        path: "details/Patagonia",
+        path: "jackets/Patagonia",
         label: "Patagonia"
     },
     {
-        path: "details/Nike",
+        path: "jackets/Nike",
         label: "Nike"
     },
     {
-        path: "details/Adidas",
+        path: "jackets/Adidas",
         label: "Adidas"
     }
 ]
 
 const shoes = [
     {
-        path: "details/New Balance",
+        path: "shoes/New Balance",
         label: "New Balance"
     },
     {
-        path: "details/Converse",
+        path: "shoes/Converse",
         label: "Converse"
     },
     {
-        path: "details/Vans",
+        path: "shoes/Vans",
         label: "Vans"
     },
     {
-        path: "details/Nike",
+        path: "shoes/Nike",
         label: "Nike"
     },
     {
-        path: "details/Adidas",
+        path: "shoes/Adidas",
         label: "Adidas"
     }
 ]
 
 const pants = [
     {
-        path: "details/Under Armour",
+        path: "pants/Under Armour",
         label: "Under Armour"
     },
     {
-        path: "details/Levi's",
+        path: "pants/Levi's",
         label: "Levi's"
     },
     {
-        path: "details/Puma",
+        path: "pants/Puma",
         label: "Puma"
     },
     {
-        path: "details/Nike",
+        path: "pants/Nike",
         label: "Nike"
     },
     {
-        path: "details/Adidas",
+        path: "pants/Adidas",
         label: "Adidas"
     }
 ]
 
 const socks = [
     {
-        path: "details/Under Armour",
+        path: "socks/Under Armour",
         label: "Under Armour"
     },
     {
-        path: "details/Ralph Lauren",
+        path: "socks/Ralph Lauren",
         label: "Ralph Lauren"
     },
     {
-        path: "details/Puma",
+        path: "socks/Puma",
         label: "Puma"
     },
     {
-        path: "details/Nike",
+        path: "socks/Nike",
         label: "Nike"
     },
     {
-        path: "details/Adidas",
+        path: "socks/Adidas",
         label: "Adidas"
     }
 ]
 
 const shirts = [
     {
-        path: "details/Under Armour",
+        path: "shirts/Under Armour",
         label: "Under Armour"
     },
     {
-        path: "details/Levi's",
+        path: "shirts/Levi's",
         label: "Levi's"
     },
     {
-        path: "details/Puma",
+        path: "shirts/Puma",
         label: "Puma"
     },
     {
-        path: "details/Nike",
+        path: "shirts/Nike",
         label: "Nike"
     },
     {
-        path: "details/Adidas",
+        path: "shirts/Adidas",
         label: "Adidas"
     }
 ]

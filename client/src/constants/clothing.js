@@ -1,25 +1,25 @@
 export const jackets = {
-    path: "/category/jackets", 
+    path: "/jackets", 
     label: "jackets"
 }
 
 export const shoes = {
-    path: "/category/shoes", 
+    path: "/shoes", 
     label: "shoes"
 }
 
 export const pants = {
-    path: "/category/pants", 
+    path: "/pants", 
     label: "pants"
 }
 
 export const socks = {
-    path: "/category/socks", 
+    path: "/socks", 
     label: "socks"
 }
 
 export const shirts = {
-    path: "/category/shirts", 
+    path: "/shirts", 
     label: "shirts"
 }
 

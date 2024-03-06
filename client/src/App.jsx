@@ -8,8 +8,9 @@ export default function App() {
       <Routes >
         <Route path="/" element={<MainLayout />} >
           <Route path="home" element={<Home />} />
-          <Route path="category/:categoryName" element={<Category />} />
-          <Route path="details/:elementId" element={<Details />} />
+          <Route path=":category" element={<Category />} >
+            <Route path=":details" element={<Details />} />
+          </Route>
         </Route>
       </Routes>
     </BrowserRouter>

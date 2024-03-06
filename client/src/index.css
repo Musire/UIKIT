@@ -118,6 +118,6 @@ html {
 
 @layer components {
   .card-container {
-    @apply w-full h-[70vh] md:h-full grid grid-cols-2 gap-3 px-4 overflow-y-scroll scrollbar-none md:grid-cols-6 place-items-center
+    @apply w-full h-[70vh] md:h-full grid mobile:grid-cols-2 md:grid-cols-4 lg:grid-cols-6 overflow-y-scroll scrollbar-none p-4
   }
 }
