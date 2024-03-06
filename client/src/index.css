@@ -48,7 +48,7 @@ html {
   
 }
 
-@layer components {
+@layer utilities {
   /*Flex Box Preset*/
   .centered {
       @apply flex flex-row justify-center items-center
@@ -114,4 +114,10 @@ html {
     @apply bg-center bg-no-repeat
   }
 
+}
+
+@layer components {
+  .card-container {
+    @apply w-full h-[70vh] md:h-full grid grid-cols-2 gap-3 px-4 overflow-y-scroll scrollbar-none md:grid-cols-6 place-items-center
+  }
 }

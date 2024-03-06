@@ -1,3 +1,4 @@
 import allClothing from "./clothing"
+import topBrands from "./categories"
 
-export { allClothing }
+export { allClothing, topBrands }
