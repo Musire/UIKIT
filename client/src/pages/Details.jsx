@@ -2,7 +2,6 @@ import { useParams } from "react-router-dom";
 
 const Details = () => {
     const { details } = useParams()
-    console.log('page: ', details)
 
     return ( 
         <section className="flex flex-col w-full h-full p-8 bg-neutral-900 gap-y-4">

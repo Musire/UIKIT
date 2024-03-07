@@ -11,7 +11,8 @@ export default {
     extend: {
       screens: {
         'xs': '319px',
-        'mobile': '375px',
+        'mobile': '460px',
+        'pc': '1090px',
         'desktop': '1440px'
       },
       colors: {

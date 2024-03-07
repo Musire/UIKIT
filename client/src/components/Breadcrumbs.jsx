@@ -27,7 +27,7 @@ const Breadcrumbs = () => {
         <div className="w-full h-16 ml-4 spaced">
             <ul className="flex items-center">
                 <span className="flex items-center gap-x-2">
-                    <Link to={'/home'} className="p-2 hover:bg-neutral-700 easy-transition rounded-xl text-smoke hover:text-silver" >
+                    <Link to={'/'} className="p-2 hover:bg-neutral-700 easy-transition rounded-xl text-smoke hover:text-silver" >
                         <HomeIcon size={30} />
                     </Link>
                     <NextIcon size={30} />
